@@ -7,8 +7,8 @@
     E-mail: Stevan.cerbaro@hotmail.com
 
     Nome: Matheus Schwertz dos Santos
-    RA: 
-    E-mail: 
+    RA:1131135  
+    E-mail: matheusschwertz@gmail.com
 
     Nome: Victor Leonardo Freitas Scheidt
     RA: 1120484
